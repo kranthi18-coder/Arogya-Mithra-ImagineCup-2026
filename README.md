@@ -12,3 +12,8 @@ This project was designed using Microsoft Azure AI architecture, including Azure
 We also focused strongly on Responsible AI principles such as safety, transparency, privacy, and accessibility.
 
 This repository presents the project idea, architecture design, and demo prepared for Imagine Cup 2026. It represents a prototype concept and system design, not a full production medical application.
+## 🎥 Demo & Explanation Videos
+
+🔹 Demo Video: [Click here to watch]https://1drv.ms/v/c/11e9fc7af942e3f1/IQBW5KPC7IiNSoM1W-Bzxh1IAak3eFN8XW6L9Umr_sEjjZc?e=Zdh4Id
+
+🔹 Explanation / Pitch Video: [Click here to watch]https://1drv.ms/v/c/11e9fc7af942e3f1/IQBj38EO_VceRLDk0F3NEMY9AfUw63rvzFyAxIrniySMlu4?e=x6ZNfn
